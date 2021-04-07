@@ -1,5 +1,5 @@
 # Additions-to-Flare
-Additional tools I installed on FlareVM
+Additional tools I installed on [FlareVM](https://github.com/fireeye/flare-vm)
 
 Web
 - [x] Firefox
@@ -14,3 +14,5 @@ Misc
 - [x] SS View
 - [ ] PDF Viewer
 - [ ] Office
+
+Some apps I'm thinking of adding are in this repo: https://github.com/mentebinaria/retoolkit
