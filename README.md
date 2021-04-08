@@ -16,3 +16,7 @@ Misc
 - [ ] Office
 
 Some apps I'm thinking of adding are in this repo: https://github.com/mentebinaria/retoolkit
+
+## TODO
+
+Download above not checked and pin flare folder to File Explorer
