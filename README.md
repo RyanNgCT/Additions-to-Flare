@@ -18,7 +18,7 @@ Misc
 - [x] PDF Viewer (Adobe Reader)
 - [ ] Office
 - [x] Regshot reinstallation (maybe buggy)--not tested
-
+- [x] WSL (Ubuntu)
 - [x] Some apps I'm thinking of adding are in this repo: https://github.com/mentebinaria/retoolkit
 
 ## TODO
