@@ -14,6 +14,7 @@ Misc
 - [x] SS View
 - [ ] PDF Viewer
 - [ ] Office
+- [ ] Regshot reinstallation (maybe buggy)
 
 Some apps I'm thinking of adding are in this repo: https://github.com/mentebinaria/retoolkit
 
