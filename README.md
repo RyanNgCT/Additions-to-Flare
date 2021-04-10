@@ -10,13 +10,16 @@ Stego
 Strings
 - [x] Bintext
 
+Forensics
+- [x] FTK Imager
+
 Misc
 - [x] SS View
-- [ ] PDF Viewer
+- [x] PDF Viewer (Adobe Reader)
 - [ ] Office
-- [ ] Regshot reinstallation (maybe buggy)
+- [x] Regshot reinstallation (maybe buggy)--not tested
 
-Some apps I'm thinking of adding are in this repo: https://github.com/mentebinaria/retoolkit
+- [x] Some apps I'm thinking of adding are in this repo: https://github.com/mentebinaria/retoolkit
 
 ## TODO
 
