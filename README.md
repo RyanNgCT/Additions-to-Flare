@@ -16,11 +16,13 @@ Forensics
 Misc
 - [x] SS View
 - [x] PDF Viewer (Adobe Reader)
-- [ ] Office
+- [x] Office
 - [x] Regshot reinstallation (maybe buggy)--not tested
 - [x] WSL (Ubuntu)
 - [x] Some apps I'm thinking of adding are in this repo: https://github.com/mentebinaria/retoolkit
 
-## TODO
+Labs and Samples
+- [x] [Josh S.'s samples](https://github.com/jstrosch/malware-samples)
 
-Download above not checked and pin flare folder to File Explorer
+## TODO
+Currently empty, will add todo for additions in future versions when I think of them
